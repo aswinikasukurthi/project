@@ -51,3 +51,36 @@ git remote -v
 git remote addd origin https://github.com/aswinikasukurthi/project.git
 git remote -v
 git push -u origin master 
+sudo apt-get update
+sudo apt-get inastall maven
+sudo apt-get install maven
+sudo apt-get install java
+mvn
+mvn archetype:generate
+ls
+cd maven /
+cd maven/
+ls
+cd
+git
+git init
+ls
+git add .
+git status
+ls
+git commit -m "commit by nani"
+git remote -v
+git remote add origin https://github.com/aswinikasukurthi/malathi.git
+git push -u origin master
+ls
+cd maven/
+ls
+cd pom.xml/
+cd pom.xml /
+cd src /
+cd ashu /
+cd
+cd ashu/
+ls
+sudo apt-get install maven
+mvn
