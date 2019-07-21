@@ -14,3 +14,40 @@ sudo ufw status
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 /var/lib/jenkins/secrets/initialAdminPassword
 aa7df123af874ec6bf6bca0e78a36680
+sudo apt-get update
+sudo apt-get install git        
+git --version
+git status
+git config list
+git config --list
+git  status
+git init
+git status
+git init
+touch f1 f2
+ls
+git add .
+ls
+git status
+git commit -m "commited by all "
+git remote -v
+git remote add origin https://github.com/aswinikasukurthi/project.git
+gite push -u origin master
+git remote -v
+git push -u origin master
+ls
+sudo apt-get update 
+audo apt-get install java
+sudo apt-get install maven
+mvn
+mvn archetype:generate
+ls
+cd ashu/
+ls
+git add .
+ls
+git commit -m "commited by ashu"
+git remote -v
+git remote addd origin https://github.com/aswinikasukurthi/project.git
+git remote -v
+git push -u origin master 
